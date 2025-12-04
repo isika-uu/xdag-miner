@@ -21,7 +21,7 @@ const cmp = (a, b) => {
 }
 
 const checkUpdate = async () => {
-  
+  open("https://github.com/isika-uu/xdag-miner/tags")
 }
 
 onMounted(() => {

@@ -1,4 +1,4 @@
-# XMRig 挖矿管理器（XDAG）
+# XDAG 矿工管理器-XDAG Miner
 
 **项目概述**
 - 基于 `Wails v2` + `Vue 3` 的桌面应用，用于管理 CPU 挖矿程序 `XMRig`
@@ -61,3 +61,7 @@
 - 服务与配置：`internal/service/xmrig_service.go`、`internal/service/config_service.go`
 - 前端入口与页面：`frontend/src/main.js`、`frontend/src/App.vue`
 - 如果你动手能力强：https://xmrig.com/
+
+![img.png](/images%2Fimg.png)
+![img_1.png](/images%2Fimg_1.png)
+![img_2.png](/images%2Fimg_2.png)
